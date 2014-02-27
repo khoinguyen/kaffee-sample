@@ -1,0 +1,1 @@
+get "/index.html", "DefaultController", "index"

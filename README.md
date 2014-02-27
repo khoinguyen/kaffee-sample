@@ -1,4 +1,4 @@
-# Vert.x Gradle Template
+# Vert.x Kaffee Framework sample
 
 Template project for creating a Vert.x module with a Gradle build.
 

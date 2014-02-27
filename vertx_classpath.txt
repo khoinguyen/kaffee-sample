@@ -1,0 +1,5 @@
+src/main/resources
+bin
+out/production/kaffee-sample
+out/test/kaffee-sample
+build/deps
