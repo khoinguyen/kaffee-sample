@@ -7,7 +7,7 @@
   // mandatory fields
   "description":"Put description of your module here",
   "licenses": ["The Apache Software License Version 2.0"],
-  "author": "Joe Bloggs",
+  "author": "Khoi Nguyen",
 
   // Optional fields
   "developers": ["Other Dev 1", "Other Dev 2"],

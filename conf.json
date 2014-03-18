@@ -1,5 +1,19 @@
 // Example JSON config file
 
 {
-  "mongo": "bar"
+    "kaffee": {
+        "http": {
+            "port": 8081,
+            "host": "localhost"
+        },
+        "templateEngines": {
+            "html": "handlebars",
+            "ejs":  "ejs"
+        },
+        "mongo": {
+            // Mongo related configuration
+        }//,
+//        "sockjs"
+
+    }
 }
